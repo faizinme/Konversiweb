@@ -1,5 +1,5 @@
 ---
-publishDate: 
+publishDate: 2023-09-06T00:00:00Z
 title: Tes posting
 excerpt: Lorem Ipsum is simply dummy text of the printing and typesetting industry.
 tags:
